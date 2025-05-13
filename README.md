@@ -9,7 +9,21 @@ AI 개발자를 꿈꾸는 학부생 김찬진입니다.
 - 🤖 인공지능 (LLM, RAG, 챗봇, 추천 시스템)
 - 🧩 컴퓨터 비전 (YOLO 기반 스포츠 분석, 영상 캡셔닝)
 
+---
 
+## 🏅 활동 및 수상
+
+- 🎓 **Google Machine Learning Bootcamp 수료 (2024)**  
+  TensorFlow를 활용한 딥러닝 실습, 모델 최적화 및 실전 프로젝트 수행
+
+- 🤝 **동아리 활동**  2024.08~2025.08
+  GDGoC(Google Developer Groups on Campus) Sungshin Core Member로 활동
+
+- 🥇 **'1784 스쿨혁명' 최우수상** *(네이버 커넥트재단 주최)*  -2023.03
+  교육 문제 해결을 위한 AI 솔루션 기획 및 구현
+
+- 🌱 **SK AI Academy (중급) 우수학습자 선정**
+    상위 10%의 성적으로 수료
 ---
 
 ## 🛠 기술 스택
