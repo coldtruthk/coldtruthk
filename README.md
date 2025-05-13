@@ -12,21 +12,21 @@ AI 개발자를 꿈꾸는 학부생 김찬진입니다.
 ---
 
 ## 🏅 활동 및 수상
-- 🎓 **KT AIVLE School - AI 트랙 수강 중 (2025)**  
-  실무형 AI 커리큘럼
 
-- 🎓 **Google Machine Learning Bootcamp 수료 (2024)**  
-  TensorFlow를 활용한 딥러닝 실습, 모델 최적화 및 실전 프로젝트 수행
+- 🎓 **KT AIVLE School – AI 트랙** *(2025)*  
+  실무 중심의 AI 커리큘럼
 
-- 🤝 **동아리 활동  2024.08 ~ 2025.08**
-  GDGoC(Google Developer Groups on Campus) Sungshin Core Member로 활동
+- 🎓 **Google Machine Learning Bootcamp 수료** *(2024)*  
+  TensorFlow 기반의 딥러닝 실습, 모델 최적화 및 실전 프로젝트 진행
 
-- 🥇 **'1784 스쿨혁명' 최우수상 *(네이버 커넥트재단 주최)*  -2023.03**
+- 🤝 **GDGoC(Google Developer Groups on Campus) Sungshin Core Member** *(2024.08 ~ 2025.08)*  
+  AI/개발 커뮤니티 내 협업 프로젝트 및 기술 세미나 주도
+
+- 🥇 **'1784 스쿨혁명' 최우수상** *(2023.03 / 네이버 커넥트재단 주최)*  
   교육 문제 해결을 위한 AI 솔루션 기획 및 구현
 
-- 🌱 **SK AI Academy (중급) 우수학습자 선정 -2024.08**
-  상위 10%의 성적으로 수료
----
+- 🌱 **SK AI Academy (중급) 우수학습자 선정** *(2024.08)*  
+  상위 10% 성적으로 수료
 
 ## 🛠 기술 스택
 
