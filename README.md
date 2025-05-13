@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 김찬진입니다!
+# 👋 Hi, I'm Chanjin Kim
 
 AI 개발자를 꿈꾸는 학부생 김찬진입니다.  
 책임감을 가지고, 의미 있는 결과를 만들어내는 것을 즐깁니다.
@@ -18,7 +18,7 @@ AI 개발자를 꿈꾸는 학부생 김찬진입니다.
 `Python` `C++` `Markdown`
 
 **AI/ML**  
-`PyTorch` `TensorFlow` `Scikit-learn` `Transformers``HugggingFace`
+`PyTorch` `TensorFlow` `Scikit-learn` `Transformers` `HugggingFace`
 
 **Web / MLOps**  
 `FastAPI` `Gradio` `GitHub Actions`
