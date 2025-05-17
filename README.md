@@ -28,20 +28,6 @@ AI 개발자를 꿈꾸는 학부생 김찬진입니다.
 - 🌱 **SK AI Academy (중급) 우수학습자 선정** *(2024.08)*  
   상위 10% 성적으로 수료
 
-## 🛠 기술 스택
-
-**Languages**  
-`Python` `C++` `Markdown`
-
-**AI/ML**  
-`PyTorch` `TensorFlow` `Scikit-learn` `Transformers` `HugggingFace`
-
-**Web / MLOps**  
-`FastAPI` `Gradio` `GitHub Actions`
-
-**Tools**  
-`VSCode` `Jupyter` `Git` `Notion` `Figma`
-
 ---
 
 ## 📌 대표 프로젝트
