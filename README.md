@@ -56,7 +56,7 @@ AI 개발자를 꿈꾸는 학부생 김찬진입니다.
 - 사용자 성향 기반 맞춤형 게임 추천
 - FAST API
 
-### ⚽ Football Commentary Generator(마무리 작업 진행중)
+### ⚽ Football Commentary Generator(2024.09 ~)
 - YOLOv5 + 트래킹 → 실시간 선수/볼 추적
 - 장면 설명 캡션을 음성과 자막으로 변환
 - Web 기반 실시간 중계 시스템 설계
