@@ -19,7 +19,7 @@ AI 개발자를 꿈꾸는 학부생 김찬진입니다.
 -  **Google Machine Learning Bootcamp 수료** *(2024)*  
   Cousera 강좌 수강, Kaggle Playground 상위 5%, Gemma를 활용한 프로젝트
 
--  **GDGoC(Google Developer Groups on Campus) Sungshin Core Member** *(2024.08 ~ 2025.08)*  
+-  **GDGoC(Google Developer Groups on Campus) Sungshin Core Member 교육팀** *(2024.08 ~ 2025.08)*  
   AI/개발 커뮤니티 내 협업 프로젝트 및 기술 세미나 주도
 
 -  **'1784 스쿨혁명' 최우수상** *(2023.03 / 네이버 커넥트재단 주최)*  
