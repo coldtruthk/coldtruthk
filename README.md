@@ -31,7 +31,7 @@
 - FAST API
 
 ###  Football Commentary Generator(2024.09 ~)
-- YOLOv5 + 트래킹 → 실시간 선수/볼 추적
+- YOLOv5 + ByteTrack/Deepsort → 실시간 선수/볼 추적
 - 장면 설명 캡션을  RAG기반으로 자막으로 변환
   
 ###  해양동물 및 쓰레기 탐지 시스템
