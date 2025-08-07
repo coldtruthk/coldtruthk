@@ -41,7 +41,4 @@
 
 ---
 
-## 📫 연락처
 
-- 📬 Email: [chanjingim12@gmail.com]
-- 🐦 LinkedIn: [www.linkedin.com/in/찬진-김-5b4515316] 
