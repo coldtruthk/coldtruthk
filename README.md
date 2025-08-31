@@ -33,7 +33,7 @@
 - 사용자 성향 기반 맞춤형 게임 추천
 - FAST API
 
-###  Football Commentary Generator(2024.09 ~)
+###  Football Commentary Generator
 - YOLOv5 + ByteTrack/Deepsort → 실시간 선수/볼 추적
 - 장면 설명 캡션을 RAG기반으로 자막으로 변환
   
