@@ -4,7 +4,7 @@
    축구 분석 중계 시스템
 
 -  **KT AIVLE School – AI 트랙** *(2025)*  
-  실무 중심의 AI 커리큘럼
+  실무 중심의 AI 커리큘럼, 라이프스타일 온라인 마케팅 AI Agent 
 
 -  **Google Machine Learning Bootcamp 수료** *(2024)*  
   Cousera 강좌 수강, Kaggle Playground 상위 5%, Gemma를 활용한 프로젝트
